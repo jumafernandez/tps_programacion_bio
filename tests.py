@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar 19 18:24:24 2024
-
-@author: jumaf
-"""
-
 def cuadrado(n):
     return n*n
 
